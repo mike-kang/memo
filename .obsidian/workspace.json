@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "c3e133caa3622f35",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a4e3c0c1ac7b80",
+        "type": "tabs",
+        "dimension": 31.092436974789916,
+        "children": [
+          {
+            "id": "45176f70cc947dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "create a link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create a link"
+            }
+          }
+        ]
+      },
+      {
+        "id": "38be06e3b4226f5d",
+        "type": "tabs",
+        "dimension": 68.90756302521008,
+        "children": [
+          {
+            "id": "adb440c389aa1182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "syslog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "syslog"
+            }
+          },
+          {
+            "id": "66ebcbe2830ea6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web socket.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web socket"
+            }
+          },
+          {
+            "id": "5ff4a15f465ee04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux program exit code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux program exit code"
+            }
+          },
+          {
+            "id": "754455712a374687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "auto exposure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "auto exposure"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b862cae0ae933eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6943ebe276da1197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f892ed5666f1abf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "66e7b7697e5de02b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d7babd0cbe22807",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4df30986fbb310d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6098cae17a681420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e941c8cb66e29d7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "syslog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for syslog"
+            }
+          },
+          {
+            "id": "f6c621259f7b7356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "syslog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from syslog"
+            }
+          },
+          {
+            "id": "869afe6b97fede7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "934238f50211ed36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "syslog.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of syslog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "754455712a374687",
+  "lastOpenFiles": [
+    "create a link.md",
+    "auto exposure.md",
+    "linux program exit code.md",
+    "Web socket.md",
+    "syslog.md"
+  ]
+}
