@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a4e3c0c1ac7b80",
-        "type": "tabs",
-        "dimension": 31.092436974789916,
-        "children": [
-          {
-            "id": "45176f70cc947dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "create a link"
-            }
-          }
-        ]
-      },
-      {
         "id": "38be06e3b4226f5d",
         "type": "tabs",
-        "dimension": 68.90756302521008,
         "children": [
           {
             "id": "adb440c389aa1182",
@@ -77,6 +55,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "AWB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWB"
+            }
+          },
+          {
+            "id": "a14c560cbaf057a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "auto exposure.md",
                 "mode": "source",
                 "source": false
@@ -84,9 +76,205 @@
               "icon": "lucide-file",
               "title": "auto exposure"
             }
+          },
+          {
+            "id": "6e3efa35d496590f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regular Expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regular Expression"
+            }
+          },
+          {
+            "id": "6183605546f457ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "golang map"
+            }
+          },
+          {
+            "id": "2382307d6d0a11b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Image Sensor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Image Sensor"
+            }
+          },
+          {
+            "id": "2ff46f1e96fdd1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이중주차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "이중주차"
+            }
+          },
+          {
+            "id": "6ba62dc585948d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bind mount.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bind mount"
+            }
+          },
+          {
+            "id": "4357b8f83e9c87d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "00e0491c30ea06b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "golang map"
+            }
+          },
+          {
+            "id": "f73e69ec28d065a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "golang map"
+            }
+          },
+          {
+            "id": "7df6d51156bd2580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VPN 클라이언트 간 통신(peer-to-peer routing).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VPN 클라이언트 간 통신(peer-to-peer routing)"
+            }
+          },
+          {
+            "id": "b77b0f695746f664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "web test"
+            }
+          },
+          {
+            "id": "e77f779451968bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InheritedWidget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InheritedWidget"
+            }
+          },
+          {
+            "id": "77b38f096e059b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web 인증방식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web 인증방식"
+            }
+          },
+          {
+            "id": "faeb748b116cff41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "time"
+            }
+          },
+          {
+            "id": "79c285509b7cff98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thread c++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thread c++"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -233,10 +421,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "754455712a374687",
+  "active": "79c285509b7cff98",
   "lastOpenFiles": [
-    "create a link.md",
+    "thread c++.md",
+    "time.md",
+    "Pasted image 20250529175029.png",
+    "Web 인증방식.md",
+    "Pasted image 20250527141327.png",
+    "InheritedWidget.md",
+    "VPN 클라이언트 간 통신(peer-to-peer routing).md",
+    "web test.md",
+    "golang map.md",
+    "flutter.md",
     "auto exposure.md",
+    "AWB.md",
+    "ISP Tunning.md",
+    "Image Sensor.md",
+    "Untitled.md",
+    "이중주차.md",
+    "bind mount.md",
+    "Pasted image 20250507182818.png",
+    "Pasted image 20250507123049.png",
+    "Pasted image 20250507122758.png",
+    "Pasted image 20250507122719.png",
+    "Pasted image 20250507122216.png",
+    "Pasted image 20250507121858.png",
+    "Regular Expression.md",
+    "Pasted image 20250425174151.png",
+    "create a link.md",
     "linux program exit code.md",
     "Web socket.md",
     "syslog.md"
