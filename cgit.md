@@ -79,3 +79,10 @@ git --git-dir=/opt/git/repos/QParkingSystem.git config http.receivepack true
 
 ## cgi test
 SCRIPT_FILENAME=/usr/lib/cgit/cgit.cgi QUERY_STRING= PATH_INFO=/ /usr/lib/cgit/cgit.cgi
+
+
+## 재시작
+```bash
+sudo systemctl restart fcgiwrap
+sudo systemctl restart nginx
+```
