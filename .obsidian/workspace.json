@@ -447,12 +447,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI.md",
+                "file": "golang map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MDI"
+              "title": "golang map"
+            }
+          },
+          {
+            "id": "5f0d554e7123206e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 15,
+                  "y": -40,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "41e71d3c8fcc5702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "react"
             }
           },
           {
@@ -470,7 +501,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -617,10 +648,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d596d0f6c23649a2",
+  "active": "41e71d3c8fcc5702",
   "lastOpenFiles": [
-    "winapi window.md",
+    "Untitled.canvas",
+    "react.md",
+    "golang package.md",
+    "golang map.md",
     "MDI.md",
+    "winapi window.md",
     "novatek ai model convert.md",
     "novatek ai programing.md",
     "openvpn.md",
@@ -630,7 +665,6 @@
     "ISP Tunning.md",
     "cgit.md",
     "git.md",
-    "Untitled.canvas",
     "PKI.md",
     "flutter.md",
     "make project shell.md",
@@ -643,10 +677,6 @@
     "torch.md",
     "Untitled",
     "Image Sensor.md",
-    "bind mount.md",
-    "특수문자들.md",
-    "time.md",
-    "thread c++.md",
     "Pasted image 20250529175029.png",
     "Pasted image 20250527141327.png",
     "Pasted image 20250507182818.png",
