@@ -478,12 +478,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react.md",
+                "file": "golang package.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react"
+              "title": "golang package"
             }
           },
           {
@@ -650,8 +650,8 @@
   },
   "active": "41e71d3c8fcc5702",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "react.md",
+    "Untitled.canvas",
     "golang package.md",
     "golang map.md",
     "MDI.md",
