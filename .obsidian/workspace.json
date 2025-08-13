@@ -487,6 +487,20 @@
             }
           },
           {
+            "id": "47d4772ce3f93e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jsoncpp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jsoncpp"
+            }
+          },
+          {
             "id": "fc1323604690160b",
             "type": "leaf",
             "state": {
@@ -501,7 +515,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -648,11 +662,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41e71d3c8fcc5702",
+  "active": "47d4772ce3f93e6d",
   "lastOpenFiles": [
+    "golang package.md",
+    "jsoncpp.md",
     "react.md",
     "Untitled.canvas",
-    "golang package.md",
     "golang map.md",
     "MDI.md",
     "winapi window.md",
