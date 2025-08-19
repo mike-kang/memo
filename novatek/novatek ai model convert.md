@@ -22,7 +22,8 @@ convert에 필요한 옵션들 중 가장 중요한 것은 gen_config.txt이다.
 Novatek은 여러 모델을 한 곳에서 관리하는 구조를 염두해 둔 것 같다. 그래서 convert시에도 config-dir을 받고 그 안에서 model directory 내에 config
 
 
+컨버트는 상관하지 말고, 모델과 data를 git으로 관리하고, 
 
 
 
-
+https://tree.nathanfriend.com/?s=(%27options!(%27fancy3~fullPath!false~trailingSlash3~rootDot3)~7(%277%27data0*train0*test0src-*model0outputs0convert0*nvt4config4*pgs96x96_center4**cnn254***gen_config.txt--%27)~version!%271%27)*%20%20-%5Cn0%2F-3!true4-**7source!%017430-*

@@ -12,4 +12,4 @@ model 하나를 본다면,
 2. vendor_ai_net_open
 3. input image를 위한 메모리 세팅
 4. vendor_ai_net_start
-5. 
+5. proc 반복
