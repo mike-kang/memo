@@ -529,6 +529,18 @@
             }
           },
           {
+            "id": "95ed75cf3d88db34",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
             "id": "fc1323604690160b",
             "type": "leaf",
             "state": {
@@ -682,6 +694,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -692,8 +705,10 @@
   },
   "active": "20739b33cfff75df",
   "lastOpenFiles": [
-    "novatek/novatek ai programing.md",
+    "golang package.md",
     "novatek/novatek ai model convert.md",
+    "PKI.md",
+    "novatek/novatek ai programing.md",
     "directory 그리기.md",
     "Web 인증방식.md",
     "novatek",
@@ -702,7 +717,6 @@
     "chrono.md",
     "Pasted image 20250814143816.png",
     "jsoncpp.md",
-    "golang package.md",
     "react.md",
     "Untitled.canvas",
     "golang map.md",
@@ -713,7 +727,6 @@
     "auto exposure.md",
     "ISP Tunning.md",
     "cgit.md",
-    "PKI.md",
     "flutter.md",
     "make project shell.md",
     "이중주차.md",
