@@ -581,9 +581,23 @@
               "icon": "lucide-file",
               "title": "notion"
             }
+          },
+          {
+            "id": "31268b16759e950e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux kernel & driver issues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux kernel & driver issues"
+            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -731,10 +745,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40c2972559e021c0",
+  "active": "31268b16759e950e",
   "lastOpenFiles": [
-    "PKI.md",
     "notion.md",
+    "linux kernel & driver issues.md",
+    "PKI.md",
     "cgit.md",
     "DVC.md",
     "Untitled.md",
@@ -761,7 +776,6 @@
     "flutter.md",
     "make project shell.md",
     "이중주차.md",
-    "선언적 UI.md",
     "Untitled",
     "Pasted image 20250529175029.png",
     "Pasted image 20250527141327.png",
