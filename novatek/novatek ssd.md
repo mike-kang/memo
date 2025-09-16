@@ -47,7 +47,7 @@ box 는 중심점 변화량과 width, height 변화량
 box의 좌표를 구하기 위해선, 3000개에 해당하는 default box의 각각의 중심점과 width, height 정보가 필요하다.
 
 
-
+## Desktop 에서 실행
 ```
  ksflex@ksflex-desktop:~/work/novaic/root/model/fd2/pytorch-ssd$ python run_ssd_example.py mb1-ssd ../mobilenet-v1-ssd-mp-0_675.pth models/voc-model-labels.txt 0ac5fc8ae8b955d0.jpg
 ```

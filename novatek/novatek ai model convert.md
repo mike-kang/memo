@@ -17,7 +17,7 @@ convert에 필요한 옵션들 중 가장 중요한 것은 gen_config.txt이다.
    - path 가 필요한 항목들
      - ref_img_list.txt 와 참조 이미지 파일들 
      - mean_data.txt
-     - model (onnx)
+     - model (onnx) : 파일명은 deploy.onnx
 
 Novatek은 여러 모델을 한 곳에서 관리하는 구조를 염두해 둔 것 같다. 그래서 convert시에도 config-dir을 받고 그 안에서 model directory 내에 config
 
