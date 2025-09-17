@@ -1,5 +1,6 @@
 
 보안을 강화한 sftp와 일반 ftp가 있다.
+여기선 일반 ftp에 대해 이야기한다.
 ## ftp를 설치하려면,
 ```
 sudo apt install vsftpd -y

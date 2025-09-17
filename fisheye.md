@@ -2,7 +2,7 @@
 
 http://www.fmwconcepts.com/imagemagick/defisheye/index.php
 
-fisheye lens로 들어오는 영상은 호FG에 매핑되고(그래서 왜곡이 된다.),
+이미지 센서는 평평하지만, fisheye lens를 통과해서 이미지 센서에 전달되는 영상을 쉽게 생각하기 위해선, 이미지 센서가 둥글다고 생각하면 된다. 위에서는 호FG가 이미지 센서가 된다.
 lens 특성인 focal length AK는 화각 A와 이에 대응되는 호 FG의 길이로 구할 수 있다.
 보통은 전체 영상이므로 화각을 180도로, 길이를 센서의 width나 height로 한다.
 focal length = width / pi
