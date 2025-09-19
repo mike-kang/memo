@@ -756,12 +756,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "손실함수.md",
+                "file": "novatek/novatek ssd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "손실함수"
+              "title": "novatek ssd"
             }
           }
         ],
@@ -797,7 +797,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -818,7 +818,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -915,6 +916,7 @@
   },
   "active": "c607dab8b6be9f14",
   "lastOpenFiles": [
+    "novatek/novatek yolov8n.md",
     "손실함수.md",
     "많은 점들 중에서 직선을 찾기.md",
     "notion.md",
@@ -924,7 +926,6 @@
     "ftp.md",
     "flutter.md",
     "fisheye.md",
-    "novatek/novatek yolov8n.md",
     "NDAS Windows.md",
     "novatek/novatek ssd.md",
     "image format.md",
