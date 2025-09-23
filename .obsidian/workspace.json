@@ -777,9 +777,23 @@
               "icon": "lucide-file",
               "title": "linux ko module loading"
             }
+          },
+          {
+            "id": "e79af3f3dd69b45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fisheye.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fisheye"
+            }
           }
         ],
-        "currentTab": 54
+        "currentTab": 55
       }
     ],
     "direction": "vertical"
@@ -927,8 +941,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06337c579771b162",
+  "active": "e79af3f3dd69b45b",
   "lastOpenFiles": [
+    "git technic.md",
     "linux ko module loading.md",
     "novatek/novatek ssd.md",
     "Untitled.base",
@@ -957,7 +972,6 @@
     "time.md",
     "python slice.md",
     "Web socket.md",
-    "CNN.md",
     "Pasted image 20250911121610.png",
     "novatek",
     "Pasted image 20250814143816.png",
