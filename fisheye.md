@@ -9,3 +9,18 @@ focal length = width / pi
 
 선분MN은 투영면(defisheye)이 된다.
 투영면에 
+
+``` mermaid
+mindmap
+  root(mindmap)
+    Origins
+
+      Long history
+
+      ::icon(fa fa-book)
+
+      Popularisation
+
+        British popular psychology author Tony Buzan
+
+```
