@@ -875,9 +875,21 @@
               "icon": "lucide-file",
               "title": "FD can"
             }
+          },
+          {
+            "id": "7c4fcb4262ac6569",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251112152227.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251112152227"
+            }
           }
         ],
-        "currentTab": 61
+        "currentTab": 62
       }
     ],
     "direction": "vertical"
@@ -1025,13 +1037,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0499964d5f6b7660",
+  "active": "7c4fcb4262ac6569",
   "lastOpenFiles": [
+    "Pasted image 20251112144257.png",
+    "Pasted image 20251112144310.png",
+    "Pasted image 20250911121610.png",
+    "Pasted image 20250814143816.png",
+    "Pasted image 20250507182818.png",
+    "Pasted image 20250507122758.png",
+    "Pasted image 20250507122216.png",
+    "Pasted image 20250507121858.png",
+    "Pasted image 20250425174151.png",
+    "gitignore.md",
+    "time.md",
+    "FD can.md",
     "DFU.md",
     "Pasted image 20251112152227.png",
-    "FD can.md",
-    "Pasted image 20251112144310.png",
-    "Pasted image 20251112144257.png",
     "eMMC.md",
     "Docker.md",
     "novatek/dtsi.md",
@@ -1056,17 +1077,9 @@
     "golang map.md",
     "git.md",
     "ftp.md",
-    "flutter.md",
-    "fisheye.md",
     "Untitled.canvas",
-    "Pasted image 20250911121610.png",
     "novatek",
-    "Pasted image 20250814143816.png",
     "Untitled",
-    "Pasted image 20250529175029.png",
-    "Pasted image 20250527141327.png",
-    "Pasted image 20250507182818.png",
-    "Pasted image 20250507123049.png",
-    "Pasted image 20250507122758.png"
+    "Pasted image 20250529175029.png"
   ]
 }
