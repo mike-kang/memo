@@ -880,12 +880,14 @@
             "id": "7c4fcb4262ac6569",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251112152227.png"
+                "file": "git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251112152227"
+              "icon": "lucide-file",
+              "title": "git"
             }
           }
         ],
@@ -921,7 +923,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -942,7 +944,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1039,6 +1042,8 @@
   },
   "active": "7c4fcb4262ac6569",
   "lastOpenFiles": [
+    "bare.md",
+    "Pasted image 20251112152227.png",
     "Pasted image 20251112144257.png",
     "Pasted image 20251112144310.png",
     "Pasted image 20250911121610.png",
@@ -1052,7 +1057,6 @@
     "time.md",
     "FD can.md",
     "DFU.md",
-    "Pasted image 20251112152227.png",
     "eMMC.md",
     "Docker.md",
     "novatek/dtsi.md",
@@ -1076,10 +1080,8 @@
     "NMS.md",
     "golang map.md",
     "git.md",
-    "ftp.md",
     "Untitled.canvas",
     "novatek",
-    "Untitled",
-    "Pasted image 20250529175029.png"
+    "Untitled"
   ]
 }
