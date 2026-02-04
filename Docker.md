@@ -11,7 +11,8 @@ docker engine은 containerd(Container Runtime)로 컨테이너를 관리한다.�
   
 
 ## 용어정리
-image : 컨테이너 패키지. docker repository와 1:1. load를 통해, tar 파일로 image를 만들거나 dockerfile 로 만들 수 있다.
+image : 컨테이너 패키지. docker repository와 1:1. 
+load를 통해, tar 파일로 image를 만들거나 dockerfile 로 만들 수 있다.
 
 container : 가상환경(호스트명, ip주소, 디스크 드라이브, …). image로 부터 만들어진다. 
 
@@ -200,12 +201,12 @@ docker image ls 로 확인.(docker가 관리하기 한다. 실제 파일이 만�
 
 container snapshot으로 만들기.
 
-docker container commit <id> <image name>:<tag>
+docker container commit <container id> <image name>:<tag>
 
 ex)docker container commit 3df diamol/ch03-lab:v2
 
 tag가 없을 땐, latest로 나옴.
-
+docker images 하면 새로 만들어진 image를 볼 수 있다.
   
 
 Dockerfile 인스트럭션
