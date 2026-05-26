@@ -187,19 +187,21 @@ network
 
   
 
-Dockerfile 로 만들기.
+#### Dockerfile 로 만들기.
 
 Dockerfile 만들기, 
 
-docker image build --tag <name> <path>
+`docker image build --tag <name> <path>`
 
   ex)docker image build --tag hisilicon:0.1 .
 
 docker image ls 로 확인.(docker가 관리하기 한다. 실제 파일이 만들어지진 않는다.)
-
-  
-
-container snapshot으로 만들기.
+docker에 RUN으로 프로그램 설치 시, tzndata같이 입력을 받는 경우는 docker build의 경우 입력을 못 하므로 아래처럼 noninteractive 설정을 넣어야 합니다.
+```
+ENV DEBIAN_FRONTEND=noninteractive  
+ENV TZ=Asia/Seoul
+```
+#### container snapshot으로 만들기.
 
 docker container commit <container id> <image name>:<tag>
 
